@@ -1,2 +1,3 @@
-# website_template
-Template for fast start web development
+# Pangea Digital
+
+Студия веб разработки и автоматизации
